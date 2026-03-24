@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "last_check_at": "2026-03-25T07:50:00+08:00",
+  "last_status": "transient_error",
+  "last_error": "session_status_missing_usage_fields",
+  "consecutive_failures": 1,
+  "retry_plan": {
+    "stage": 1,
+    "next_retry_at": "2026-03-25T07:55:00+08:00",
+    "delays_minutes": [5, 10]
+  },
+  "last_valid": null,
+  "last_alert": null,
+  "cooldown_hours": 6
+}
