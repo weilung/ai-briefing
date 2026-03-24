@@ -1,0 +1,14 @@
+# Runtime/state files
+state/
+*.state.json
+
+# Local exports / temp artifacts
+exports/
+*.tmp
+*.log
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
