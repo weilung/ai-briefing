@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_check_at": "2026-03-25T08:00:00+08:00",
+  "last_check_at": "2026-03-25T08:30:00+08:00",
   "last_status": "ok",
   "last_error": null,
   "consecutive_failures": 0,
@@ -10,8 +10,8 @@
     "delays_minutes": [5, 10]
   },
   "last_valid": {
-    "daily_remaining_percent": 97,
-    "weekly_remaining_percent": 84,
+    "daily_remaining_percent": 96,
+    "weekly_remaining_percent": 83,
     "source": "session_status"
   },
   "pending_risk_confirmation": {
