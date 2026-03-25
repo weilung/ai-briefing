@@ -1,10 +1,14 @@
 {
   "version": 1,
-  "last_check_at": "2026-03-25T11:01:00+08:00",
-  "last_status": "ok",
-  "last_error": null,
-  "consecutive_failures": 0,
-  "retry_plan": null,
+  "last_check_at": "2026-03-25T11:30:00+08:00",
+  "last_status": "transient_error",
+  "last_error": "session_status_missing_usage_fields",
+  "consecutive_failures": 1,
+  "retry_plan": {
+    "stage": 1,
+    "next_retry_at": "2026-03-25T11:35:00+08:00",
+    "delays_minutes": [5, 10]
+  },
   "last_valid": {
     "daily_remaining_percent": 90,
     "weekly_remaining_percent": 82,
