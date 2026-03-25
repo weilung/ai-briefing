@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "last_check_at": "2026-03-25T09:00:00+08:00",
-  "last_status": "transient_error",
-  "last_error": "session_status_missing_usage_fields",
-  "consecutive_failures": 1,
+  "last_check_at": "2026-03-25T09:30:00+08:00",
+  "last_status": "ok",
+  "last_error": null,
+  "consecutive_failures": 0,
   "retry_plan": {
-    "stage": 1,
-    "next_retry_at": "2026-03-25T09:05:00+08:00",
+    "stage": 0,
+    "next_retry_at": null,
     "delays_minutes": [5, 10]
   },
   "last_valid": {
-    "daily_remaining_percent": 96,
+    "daily_remaining_percent": 94,
     "weekly_remaining_percent": 83,
     "source": "session_status"
   },
