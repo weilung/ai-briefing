@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "last_check_at": "2026-03-25T11:30:00+08:00",
+  "last_check_at": "2026-03-26T05:30:00+08:00",
   "last_status": "transient_error",
   "last_error": "session_status_missing_usage_fields",
-  "consecutive_failures": 1,
+  "consecutive_failures": 2,
   "retry_plan": {
-    "stage": 1,
-    "next_retry_at": "2026-03-25T11:35:00+08:00",
+    "stage": 2,
+    "next_retry_at": "2026-03-26T05:40:00+08:00",
     "delays_minutes": [5, 10]
   },
   "last_valid": {
